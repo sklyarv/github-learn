@@ -1,1 +1,4 @@
 The body of the file-A.txt
+new line in file fila-A.txt
+add new line after git add
+oldest line
